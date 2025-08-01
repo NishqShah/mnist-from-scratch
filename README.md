@@ -80,12 +80,12 @@ The model performed well overall, though it occasionally confused visually simil
 
 ---
 
-## 📂 Files in This Repository
+##  Files in This Repository
 
-### 📝 mnist_from_scratch.ipynb
+###  mnist_from_scratch.ipynb
 The main notebook containing the full implementation of a neural network from scratch using NumPy. It includes EDA, training, and evaluation.
 
-### 📁 images/
+###  images/
 EDA plots used for data understanding:
 - EDA 1: Sample MNIST Digits(`eda_plot_1.png`)
 - EDA 2: Distribution of Digits in Training Data (`eda_plot_2.png`)
