@@ -1,3 +1,5 @@
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NishqShah/mnist-from-scratch/blob/main/mnist_from_scratch.ipynb)
+
 # MNIST Digit Classifier — Built from Scratch with NumPy
 
 This project demonstrates how a simple neural network can be implemented **from the ground up** using just NumPy. It’s trained to recognize handwritten digits from the MNIST dataset and achieves a test accuracy of around **94.77%** — all without using any machine learning libraries like TensorFlow or PyTorch.
