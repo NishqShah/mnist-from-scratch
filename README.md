@@ -63,12 +63,6 @@ Key visualizations like label distributions and digit samples were saved in the 
 
 - **Final Test Accuracy**: **94.77%**
 
-Confusion matrix:
-
-![confusion-matrix](eda_images/confusion_matrix.png)
-
-The model performed well overall, though it occasionally confused visually similar digits like 5 and 3, or 9 and 4 — which is expected in a basic model.
-
 ---
 
 ## What I Learned
