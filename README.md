@@ -78,3 +78,19 @@ The model performed well overall, though it occasionally confused visually simil
 - The importance of activation functions and bias terms  
 - How to evaluate a classification model using accuracy and confusion matrices  
 
+---
+
+## 📂 Files in This Repository
+
+### 📝 mnist_from_scratch.ipynb
+The main notebook containing the full implementation of a neural network from scratch using NumPy. It includes EDA, training, and evaluation.
+
+### 📁 images/
+EDA plots used for data understanding:
+- EDA 1: Sample MNIST Digits(`eda_plot_1.png`)
+- EDA 2: Distribution of Digits in Training Data (`eda_plot_2.png`)
+- EDA 3: Pixel Intensity Heatmap (`eda_plot_3.png`)
+- EDA 4: Pixel Intensity Distribution (`eda_plot_4.png`)
+- EDA 5: Confusion Matrix Test Set(`eda_plot_5.png`)
+- EDA 6: Sample Predictions on Test Set(`eda_plot_6.png`)
+
